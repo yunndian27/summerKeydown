@@ -1,6 +1,6 @@
 # 夏日練打蟲子
 夏天蟲子多，很難靜下心好好練習打字速度，所以設計了一個來打蟲子遊戲兼練習的打字的網頁。
-![summerKeydown](/images/summerKeydown.jpg)
+![summerKeydown](/images/summerKeydown.png)
 遊戲圖片來自網路
 ***
 - JavaScript
